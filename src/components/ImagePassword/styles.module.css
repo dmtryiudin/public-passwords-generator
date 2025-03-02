@@ -1,0 +1,7 @@
+.wrapper {
+  display: grid;
+  grid-template-columns: repeat(10, 30px);
+  border: 1px solid black;
+  width: 300px;
+  box-sizing: border-box;
+}

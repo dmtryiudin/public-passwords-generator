@@ -1,0 +1,15 @@
+.cell {
+  width: 30px;
+  height: 30px;
+  box-sizing: border-box;
+  border: 1px solid black;
+  background-color: white;
+}
+
+.cellFilled {
+  width: 30px;
+  height: 30px;
+  box-sizing: border-box;
+  border: 1px solid black;
+  background-color: black;
+}
